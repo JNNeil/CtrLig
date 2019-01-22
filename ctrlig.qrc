@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/cfg.ico</file>
+        <file>icons/cfg.png</file>
+        <file>icons/qt_zh_CN.qm</file>
+        <file>icons/user5.ico</file>
+        <file>icons/read.ico</file>
+        <file>icons/write.ico</file>
+        <file>icons/lig.ico</file>
+    </qresource>
+</RCC>
